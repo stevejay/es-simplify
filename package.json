@@ -8,7 +8,7 @@
   "engines": {
     "node": ">=4.3"
   },
-  "description": "Utility method for simplifying an english term for use with Elasticsearch completion indexes",
+  "description": "Simplifies an english search term to use it with an Elasticsearch completion index",
   "main": "index.js",
   "scripts": {
     "test": "NODE_ENV=test mocha --growl --recursive",
