@@ -18,7 +18,7 @@ $ npm install --save es-simplify
 ```js
 const simplify = require('es-simplify');
 
-// promisify a single function
+// simplify a term
 
 const result = simplify(' Hi    Yóu   ');
 
